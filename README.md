@@ -1,34 +1,33 @@
-# introduction_to_software_testing
-All programming assignments of introduction to software testing offer by University of Minnesota 
-
-
 # **[Software-Testing-and-Automation-Specialization]**
 Introduction to Software Testing - Coursera -Offered By University of Minnesota
 
 # **[About this Course]**
-- evaluate testability of requirements
-- define testable units within a program specification
-- apply black-box test input selection methods - specifically boundary-value analysis, fuzzing, and random selection - and select the method most-suited to achieve the given testing objective
-- assess the fault-finding effectiveness of a functional test suite using mutation testing
-- use category partitioning to develop automated functional tests (with Cucumber) based on a given software specification
-- create an expected-value oracle from a program description to use within the generated tests
+- Describe the difference between verification and validation.
+- Explain the goal of testing.
+- Use appropriate test terminology in communication; specifically: test fixture, logical test case, concrete test case, test script, test oracle, and fault.
+- Describe the motivations for white and black box testing.
+- Compare and contrast test-first and test-last development techniques.
+- Measure test adequacy using statement and branch coverage.
+- Reason about the causes and acceptability of and poor coverage
+- Assess the fault-finding effectiveness of a functional test suite using mutation testing.
+- Critique black-box and white-box testing, describing the benefits and use of each within the greater development effort.
+- Distinguish among the expected-value (true), heuristic, consistency (as used in A/B regression), and probability test oracles and select the one best-suited to the testing objective.
+- Craft unit and integration test cases to detect defects within code and automate these tests using JUnit.  To achieve this, students will employ test doubles to support their tests, including stubs (for state verification) and mocks (for behavioral verification) (https://martinfowler.com/articles/mocksArentStubs.html).
 
-In order to do well in this course, you should have experience with an OOP language (like Java), have an IDE installed (e.g., Eclipse), and be familiar with testing terminology (see Intro to Software Testing course within this specialization). we also expect a familiarity with the Software Development Lifecycle and the context in which the testing stage sits.
-
-This course is primarily aimed at those learners interested in any of the following roles: Software Engineer, Software Engineer in Test, Test Automation Engineer, DevOps Engineer, Software Developer, Programmer, Computer Enthusiast.
+This course is primarily aimed at those learners interested in any of the following roles: Software Engineer, Software Engineer in Test, Test Automation Engineer, DevOps Engineer, Software Developer, Programmer, Computer Enthusiast. 
 
 # **[WEEK 1]**
 Module 1: Introduction
-In this module, we will learn about the basics of testing adequacy, as well as the factors that influence testing effectiveness and how we quantify these metrics.
+In this module, you will be introduced to the basics of testing, especially the variety of terminology to be used through the rest of the course.
 
 # **[WEEK 2]**
-Module 2: Black and White-box Techniques
-In this module, we will learn a variety of testing techniques that can be used in both white-box and black-box testing strategies.
+Module 2: Testing Foundations
+In this module, you will investigate a variety of testing principles, models of testing, and types of systematic testing strategies.
 
 # **[WEEK 3]**
-Module 3: Requirements-Based Testing
-In this module, we focus on requirements-based testing. We review a set of requirements from a testing perspective and then move on to a more sophisticated way of writing requirements: structured requirements using the tool Cucumber.
+Module 3: Testing in the Software Development Lifecycle
+In this module, you will learn about the social aspects of testing. We will learn about test plans, testing status reports, and defect reporting.
 
 # **[WEEK 4]**
-Performing Black and White Box Testing with Cucumber
-In this module, we go further in using the Cucumber toolset in order to implement a variety of testing strategies against two example projects.
+Writing Good Unit Tests
+In this module, you will learn about writing unit tests and gain practice in writing these tests through three coding assignments, each with additional testing sophistication.
