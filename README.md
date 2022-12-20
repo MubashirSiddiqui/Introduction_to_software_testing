@@ -30,4 +30,4 @@ In this module, you will learn about the social aspects of testing. We will lear
 
 # **[WEEK 4]**
 Writing Good Unit Tests
-In this module, you will learn about writing unit tests and gain practice in writing these tests through three coding assignments, each with additional testing sophistication.
+In this module, you will learn about writing unit tests and gain practice in writing these tests through three coding assignments, each with additional testing sophistication. 
