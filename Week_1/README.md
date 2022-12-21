@@ -28,4 +28,4 @@
 2. The main method.
 3. False.
 4. A good idea. Test cases should be built based on the expected output and should not be influenced by the implementation.
-5. All test cases need to be run including the new one.
+5. All test cases need to be run including the new one. 

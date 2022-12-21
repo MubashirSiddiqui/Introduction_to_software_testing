@@ -46,7 +46,7 @@
 ## Validation and Verification in the "V-Model" Quiz
 1. A and B
 2. The system has passed all tests from unit testing through verification testing and is now ready for validation testing.
-3. True.
+3. True. 
 
 ## Structural Testing
 1. White-box testing
